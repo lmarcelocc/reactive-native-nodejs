@@ -13,3 +13,8 @@ ndkVersion = "23.1.7779620"
 3. Try to build with `npm run android` 
 4. Create the android folder with `npx expo run:android`
 5. Let's force to build sqlite3 from the source. For this go to `nodejs-assets/nodejs-project/node_modules/sqlite3/package.json` and change the script *install* to `npm install --build-from-source`.
+
+# Resources
+
+https://reactnative.dev/docs/environment-setup  
+https://stackoverflow.com/questions/44270504/react-native-ios-and-android-folders-not-present  
