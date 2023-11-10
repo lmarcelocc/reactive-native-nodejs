@@ -1,0 +1,11 @@
+{
+  "name": "my-sample-node-project",
+  "version": "0.0.1",
+  "description": "node part of the project",
+  "main": "main.js",
+  "author": "janeasystems",
+  "license": "",
+  "dependencies": {
+    "@mapbox/mbtiles": "^0.12.1"
+  }
+}
