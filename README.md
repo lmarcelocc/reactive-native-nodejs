@@ -1,10 +1,8 @@
 # Requirements
-Node.js 18
-
-JAVA 21 (maybe it work with 17/18)
-
-// We use NDK 23 which has both M1 support and is the side-by-side NDK version from AGP.  
-ndkVersion = "23.1.7779620"
+* Node.js 18
+* JAVA 21 (maybe it work with 17/18)
+* We use NDK 23 which has both M1 support and is the side-by-side NDK 
+  * ndkVersion "23.1.7779620" version from AGP.  
 
 # Steps
 
